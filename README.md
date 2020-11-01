@@ -3,7 +3,7 @@ Herramienta que sirve para mandar un ataque de spam SMS a un número de celular,
 
 Instalación:
 - git clone https://github.com/Monkey-hk4/CelBoom
-- cd celboom
+- cd CelBoom
 - chmod +x CelBoom.sh
 - bash install.sh
 - Para ejecutar  >>> bash CelBoom.sh <<<
