@@ -33,7 +33,7 @@ git clone https://github.com/LimerBoy/Impulse > /dev/null 2>&1
 cd Impulse
 python -m pip install -r requirements.txt > /dev/null 2>&1
 cd
-cd celboom
+cd CelBoom
 chmod 711 CelBoom.sh
 clear
 echo -e "${rojo}
