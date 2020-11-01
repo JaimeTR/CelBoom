@@ -6,7 +6,7 @@ Instalación:
 - cd celboom
 - chmod +x CelBoom.sh
 - bash install.sh
-Para ejecutar  >>> bash CelBoom.sh <<<
+- Para ejecutar  >>> bash CelBoom.sh <<<
 
 Utilizar esta herramienta para hacer bromas no la uses con fines negativos.
 Monkey-hk4 no se hace responsable del mal uso.
