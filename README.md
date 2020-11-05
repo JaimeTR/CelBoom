@@ -5,6 +5,7 @@ Instalación:
 - git clone https://github.com/Monkey-hk4/CelBoom
 - cd CelBoom
 - chmod +x CelBoom.sh
+- chmod +x install.sh
 - bash install.sh
 - Para ejecutar  >>> bash CelBoom.sh <<<
 
