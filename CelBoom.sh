@@ -23,7 +23,7 @@ echo -e "${rojo}
 }
 function PHONE {
 echo -e -n "${cyan}
->> Ejemplo: +51222888555
+>> Ejemplo: +55111111111
 >
 Introduce el número de la víctima >> "${blanco}
 read -r phone
