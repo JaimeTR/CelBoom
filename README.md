@@ -1,6 +1,8 @@
 # CelBoom
 Herramienta que sirve para mandar un ataque de spam SMS a un número de celular, funciona con impulse.
 
+- solo sirve para termux, próximamente sera para Linux 
+
 # Versiones
 - versión 1.0
 - versión 2.0 >> actual
