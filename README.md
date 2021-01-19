@@ -1,5 +1,9 @@
 # CelBoom
-Herramienta que sirve para mandar un ataque de spam SMS a un número de celular, funciona con impulse.
+Herramienta que sirve para mandar un ataque de spam SMS a un número de celular.
+- funciona con la herramienta impulse
+- aqui el github original https://github.com/LimerBoy/Impulse
+# Fotos
+
 
 # Versiones
 - versión 1.0
@@ -10,7 +14,7 @@ Herramienta que sirve para mandar un ataque de spam SMS a un número de celular,
 - git clone https://github.com/Monkey-hk4/CelBoom
 - cd CelBoom
 - chmod +x *
-- bash install.sh
+- pip install -r requirements.txt
 - bash CelBoom.sh
 
 Utilizar esta herramienta para hacer bromas no la uses con fines negativos.
