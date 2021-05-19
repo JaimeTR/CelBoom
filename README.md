@@ -1,5 +1,4 @@
 # CelBoom
-# Fotos
 [![Cel-Boom-photo.jpg](https://i.postimg.cc/05zhjstB/Cel-Boom-photo.jpg)](https://postimg.cc/WtP5YQcG)
 # Versiones
 * `versión 3.0 < Actual`
