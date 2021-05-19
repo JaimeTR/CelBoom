@@ -9,9 +9,12 @@ Herramienta que sirve para mandar un ataque de spam SMS a un número de celular.
 # Versiones
 * `versión 3.0 < Actual`
 
-### Instalación:
+### Descarga `git`:
 ```bash
  git clone https://github.com/Monkey-hk4/CelBoom
+ ```
+ ### Instalar:
+ ```bash
  cd CelBoom
  chmod +x *
  pip install -r requirements.txt
