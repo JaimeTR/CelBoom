@@ -18,3 +18,6 @@ Herramienta que sirve para mandar un ataque de spam SMS a un número de celular.
 - Funciona con la herramienta impulse
 - Aquí el github original https://github.com/LimerBoy/Impulse
 
+# Mis redes Sociales
+- [`Instagram`](https://www.instagram.com/monkey_hk4/)
+- [`Youtube`](https://www.youtube.com/channel/UCEWGSsk-U9GjCLQk9ng1fNQ)
