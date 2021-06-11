@@ -10,7 +10,7 @@
  ### Instalar:
  ```bash
  cd CelBoom
- chmod +x *
+ chmod +x CelBoom.sh
  pip install -r requirements.txt
  bash CelBoom.sh
 ```
