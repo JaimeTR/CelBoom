@@ -19,5 +19,5 @@ Herramienta que sirve para mandar un ataque de spam SMS a un número de celular.
 - Aquí el github original https://github.com/LimerBoy/Impulse
 
 # Mis redes Sociales
-- [`Instagram`](https://www.instagram.com/monkey_hk4/)
+- [`Instagram`](https://www.instagram.com/d4vid.0day/)
 - [`Youtube`](https://www.youtube.com/channel/UCEWGSsk-U9GjCLQk9ng1fNQ)
